@@ -1,0 +1,47 @@
+body{
+	margin:0;
+	font-family: Arial, "helvetica Neue", Helvetica, sans-serif;
+	font-size:17px;
+	color:#926239;
+
+	line-height:1.6;
+	text-align: center;
+}
+
+audio 
+{
+	display: none;
+}
+#intro{
+	background-image:url('img/zoomout.gif');
+	height:100vh;
+	background-size:cover;
+	background-position:center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	border-color: #8DAFDD;
+	color: white;
+
+}
+a {
+	border-color: #8DAFDD;
+	color: white;
+	text-decoration: none;
+}
+p {
+	border-color: #8DAFDD;
+	color: white;
+}
+}
+/*
+#intro .button{
+	font-size:18px;
+	text-decoration: none;
+	color:#926239;
+	border: #926239; 1px solid;
+	padding: 10px 20px;
+	border-radius: 50%;
+}
+*/
